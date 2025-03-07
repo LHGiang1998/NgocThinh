@@ -415,7 +415,7 @@ const MessageCard = ({ marginBottom }) => {
                                 repeatType: "reverse"
                             }}
                         >
-                            I **** ***, Thịnh!
+                          I **** ***, Nếu mà Em cười là coi như anh đạt được mục đích kkkkk!
                         </motion.div>
                     </FinalMessage>
                 </FullscreenOverlay>
