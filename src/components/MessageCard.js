@@ -188,6 +188,7 @@ const messages = [
     "Khi ở độ tuổi đẹp nhất hãy sống với vẻ đẹp của em hãy yêu bản thân em nhất nha Thịnh!",
     "Chúc mừng Ngày Phụ nữ! Em xứng đáng có được tất cả hạnh phúc trên thế giới này.",
     "Ngọc Thịnh 'Khờ' ...... 'ôn' [Khôn]!"
+    "Nếu mà next tới đây là nhiều chuyện lắm nè kkkk, hôm nào lại kể tiếp....."
 ];
 
 // Then update the MessageCard component to accept and pass the prop:
