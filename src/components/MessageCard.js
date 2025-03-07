@@ -182,12 +182,13 @@ const CustomHeart = ({ color }) => (
 
 const messages = [
     "8/3 Vui vẻ hãy nở rộ như một bông hoa!",
+    "Nhưng mà không có tặng hoa vì ai lại đem bông hoa tặng cho một bông hoa bao giờ :))",
     "Nụ cười của em thắp sáng thế giới của ai á :))",
     "Chúc em dù gì đi nữa vấn luôn xinh đẹp và hạnh phúc nhé!",
     "Chúc em Tay Trái có Tiền tay kia cầm nhẫn, an yên một đời",
     "Khi ở độ tuổi đẹp nhất hãy sống với vẻ đẹp của em hãy yêu bản thân em nhất nha Thịnh!",
     "Chúc mừng Ngày Phụ nữ! Em xứng đáng có được tất cả hạnh phúc trên thế giới này.",
-    "Ngọc Thịnh 'Khờ' ...... 'ôn' [Khôn]!"
+    "Ngọc Thịnh 'Khờ' ...... 'ôn' [Khôn]!",
     "Nếu mà next tới đây là nhiều chuyện lắm nè kkkk, hôm nào lại kể tiếp....."
 ];
 
